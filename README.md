@@ -1,16 +1,18 @@
-## Hi there 👋
+# Florian ANDRE 👋
 
-<!--
-**florian-andre-git/florian-andre-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en informatique (CESI) 
+Intérêts : Linux • Automatisation • Conteneurs • Réseaux • Sécurité
 
-Here are some ideas to get you started:
+## 🔧 Compétences
+- **Systèmes** : Linux, Bash
+- **Dev / Script** : Python, Git, CI/CD (Notions)
+- **Conteneurs** : Docker (pratique), Kubernetes (Notions)
+- **Réseaux** : VLAN/VLSM, DHCP/DNS, analyse de trafic (Wireshark)
+- **Sécurité** : bases (Google Cybersecurity Cert.), notions SOC / bonnes pratiques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projets (sélection)
+- **Réseau multi-sites** : segmentation (VLAN/VLSM), DHCP/DNS, supervision et analyse trafic
+- **Docker / Lab** : conteneurisation + scripts d’automatisation
+- **SQL / BDD** : modélisation + requêtes (PostgreSQL)
+
+➡️ Voir mes repos épinglés ci-dessous.
